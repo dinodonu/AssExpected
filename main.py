@@ -5,9 +5,13 @@ import asyncio
 import logging
 import os
 from collections.abc import Callable
+from pathlib import Path
 from typing import Any
 
+from dotenv import load_dotenv
 from telethon.errors import RPCError
+
+load_dotenv(Path(__file__).resolve().parent / ".env")
 
 from aebot import ChannelForwarder, ForwardingSettings, build_client
 
