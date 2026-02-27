@@ -2,6 +2,14 @@
 
 Telegram userbot to track the market.
 
+## Features
+
+- Forward BWETradFi news into a Telegram group/topic in real time
+
+## TODO
+
+- [ ] Scan stocks in watchlist daily at market open and close.
+
 ## Setup
 
 Create a `.env` file in the project root with the following variables:
