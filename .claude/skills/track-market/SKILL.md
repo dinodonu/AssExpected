@@ -1,9 +1,9 @@
 ---
-name: monitor-market
-description: Monitor financial markets — check stock prices, charts, news, KOL articles, and set up alerts
+name: track-market
+description: Track financial markets — check stock prices, charts, news, KOL articles, and set up alerts
 ---
 
-# Monitor Market
+# Track Market
 
 Track financial markets by researching stock prices, charts, news, key opinion leader (KOL) commentary, and providing actionable alerts.
 
@@ -31,10 +31,10 @@ Track financial markets by researching stock prices, charts, news, key opinion l
 
 ## Usage Examples
 
-- `/monitor-market AAPL` — Get a quick overview of Apple's price, recent news, and KOL sentiment
-- `/monitor-market TSLA news` — Focus on the latest Tesla headlines and analyst commentary
-- `/monitor-market portfolio AAPL MSFT GOOG` — Compare price action across multiple holdings
-- `/monitor-market alerts NVDA` — Check for any notable moves or upcoming catalysts for NVIDIA
+- `/track-market AAPL` — Get a quick overview of Apple's price, recent news, and KOL sentiment
+- `/track-market TSLA news` — Focus on the latest Tesla headlines and analyst commentary
+- `/track-market portfolio AAPL MSFT GOOG` — Compare price action across multiple holdings
+- `/track-market alerts NVDA` — Check for any notable moves or upcoming catalysts for NVIDIA
 
 ## Notes
 

@@ -1,6 +1,6 @@
 # AssExpected
 
-Telegram channel forwarder bot.
+Telegram userbot to track the market.
 
 ## Setup
 
